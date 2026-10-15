@@ -173,14 +173,7 @@ val c = (-3.7).toInt()     // -3, отбрасывание идет к нулю
 > Если число не влезает в тип поменьше, будет переполнение: получится совсем другое число и никакой ошибки
 
 ```kotlin
-val d = 200.toByte()
-
-    fun main(){ 
-
-    var longN: Long = 2
-    var intN: Int = 4
-    longN = intN.toLong()   // Ошибки нет
-    println(longN)}
+val d = 200.toByte() // -56, а не 127
 ```
 
 ## Тип Any
