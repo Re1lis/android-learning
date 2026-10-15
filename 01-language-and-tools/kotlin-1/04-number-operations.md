@@ -182,4 +182,4 @@ println((-12).inv()) // 11
 
 ---
 
-[← Ввод и вывод](03-console-io.md) · [Этап 1](../README.md) · [Главная](../../README.md)
+[← Ввод и вывод](03-console-io.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [Условные выражения →](05-conditions.md)

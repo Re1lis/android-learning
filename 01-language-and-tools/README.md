@@ -15,7 +15,7 @@
 - [Типы данных](kotlin-1/02-data-types.md)
 - [Консольный ввод и вывод](kotlin-1/03-console-io.md)
 - [Операции с числами](kotlin-1/04-number-operations.md)
-- Условные выражения: if, when
+- [Условные выражения: if, when](kotlin-1/05-conditions.md)
 - Циклы и диапазоныЫ
 - Функции
 - List и MutableList
