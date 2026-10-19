@@ -1,6 +1,6 @@
 # Условные выражения
 
-[← Операции с числами](04-number-operations.md) · [Этап 1](../README.md) · [Главная](../../README.md)  · [if...else →](06-if-else.md)
+[← Операции с числами](04-number-operations.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [if...else →](06-if-else.md)
 
 ## Коротко
 
@@ -127,4 +127,4 @@ println(8 !in 1..6)    // true
 
 ---
 
-[← Операции с числами](04-number-operations.md) · [Этап 1](../README.md) · [Главная](../../README.md)  · [if...else →](06-if-else.md)
+[← Операции с числами](04-number-operations.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [if...else →](06-if-else.md)
