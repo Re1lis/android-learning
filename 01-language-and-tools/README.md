@@ -16,7 +16,7 @@
 - [Консольный ввод и вывод](kotlin-1/03-console-io.md)
 - [Операции с числами](kotlin-1/04-number-operations.md)
 - [Условные выражения](kotlin-1/05-conditions.md)
-- Условная конструкция if...else
+- [Условная конструкция if...else](kotlin-1/06-if-else.md)
 - Конструкция when
 - Циклы: for, while, do-while, break и continue
 - Диапазоны: .., until, step, downTo
