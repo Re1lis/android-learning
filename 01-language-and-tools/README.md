@@ -18,7 +18,7 @@
 - [Условные выражения](kotlin-1/05-conditions.md)
 - [Условная конструкция if...else](kotlin-1/06-if-else.md)
 - [Конструкция When](kotlin-1/07-when.md)
-- Циклы: for, while, do-while, break и continue
+- [Циклы: for, while, do-while, break и continue](kotlin-1/08-loops.md)
 - Диапазоны: .., until, step, downTo
 - Массивы
 - Функции и их параметры
