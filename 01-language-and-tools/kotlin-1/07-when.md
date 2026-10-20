@@ -1,6 +1,6 @@
 # Конструкция when
 
-[← if...else](06-if-else.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [Циклы](08-loops.md)
+[← if...else](06-if-else.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [Циклы →](08-loops.md)
 
 ## Коротко
 
@@ -218,4 +218,4 @@ val result = when (day) {
 
 ---
 
-[← if...else](06-if-else.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [Циклы](08-loops.md)
+[← if...else](06-if-else.md) · [Этап 1](../README.md) · [Главная](../../README.md) · [Циклы →](08-loops.md)
