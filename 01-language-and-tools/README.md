@@ -19,8 +19,8 @@
 - [Условная конструкция if...else](kotlin-1/06-if-else.md)
 - [Конструкция When](kotlin-1/07-when.md)
 - [Циклы: for, while, do-while, break и continue](kotlin-1/08-loops.md)
-- Диапазоны: .., until, step, downTo
-- Массивы
+- [Диапазоны: .., until, step, downTo](kotlin-1/09-ranges.md)
+- [Массивы](kotlin-1/10-arrays.md)
 - Функции и их параметры
 - Переменное количество параметров: vararg
 - Возвращение результата: return
